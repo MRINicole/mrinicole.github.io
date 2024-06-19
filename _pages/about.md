@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://MRINicole.github.io/files/Seiberlich CV_240202.pdf)
+[Curriculum Vitae (CV)](https://MRINicole.github.io/files/Seiberlich_CV_240202.pdf)
 
 I am a Professor at the University of Michigan, and I love MRI.
